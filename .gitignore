@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.aws/
+*credentials*
+*.pem
+*.key
+.vscode/
